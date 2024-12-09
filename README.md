@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
 </p>
 
-<p align="center"> - 📫 Caso queira entrar em contato: **gibieldavi13@gmail.com** </p>
+<p align="center"> - 📫 Caso queira entrar em contato: gibieldavi13@gmail.com </p>
 
 <p align="center"> --- </p>
 
