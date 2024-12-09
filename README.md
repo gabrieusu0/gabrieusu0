@@ -1,8 +1,8 @@
 <h1 align="center">Olá 👋, sou o Gabriel Santos</h1>
 <h3 align="center">Sou estudante de tecnologia no Curso de Ciências da Computação na SPTECH - São Paulo Tech School</h3>
-
+<br>
 <p align="center"> - 🌱 Algumas das linguagens em que estou me desenvolvendo são: </p>
-
+<br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> 
