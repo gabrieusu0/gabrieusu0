@@ -2,8 +2,6 @@
 <h3 align="center">Sou estudante de tecnologia no Curso de Ciências da Computação na SPTECH - São Paulo Tech School</h3>
 <img align="right" alt="coding" width="400px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxYjczNjMxZTE4YTlmMjkxNGVhZGNkY2E2Zjk1NTA4MmNkMGJhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunsingh27&label=Profile%20views&color=0e75b6&style=flat" alt="arjunsingh27" /> </p>
-
 - 🌱 Algumas das linguagens em que estou me desenvolvendo são:
 -  ** HTML **, ** CSS **, ** JAVASCRIPT **, ** C++ **
 
