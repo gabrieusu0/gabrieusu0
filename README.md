@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou o Gabriel Santos</h1>
 <h3 align="center">Sou estudante de tecnologia no Curso de Ciências da Computação na SPTECH - São Paulo Tech School</h3>
 
-<span align="center"> - 🌱 Algumas das linguagens em que estou me desenvolvendo são: </span>
+<p align="center"> - 🌱 Algumas das linguagens em que estou me desenvolvendo são: </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> 
@@ -10,9 +10,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
 </p>
 
-<span align="center"> - 📫 Caso queira entrar em contato: **gibieldavi13@gmail.com** </span>
+<p align="center"> - 📫 Caso queira entrar em contato: **gibieldavi13@gmail.com** </p>
 
-<span align="center"> --- </span>
+<p align="center"> --- </p>
 
 <h3 align="center">Se conecte comigo:</h3>
 <p align="center">
